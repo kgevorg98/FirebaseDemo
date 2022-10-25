@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseMVVM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_media">Select Media</string>
+    <string name="done">Done</string>
+    <string name="size"> %1$s mb</string>
+    <string name="success">Media successfully uploaded to firebase</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="buttonStyle">
+        <item name="android:textColor">#ED2E2828</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:backgroundTint">#FF6458</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+</resources>
